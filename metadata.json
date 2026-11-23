@@ -1,0 +1,6 @@
+{
+  "name": "مكتبتي",
+  "description": "تطبيق مكتبتي الرقمية الشاملة للكتب العلمية والدينية والثقافية والقصصية، تطوير علي خالد الكندي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
